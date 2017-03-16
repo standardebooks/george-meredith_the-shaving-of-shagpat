@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-meredith/the-shaving-of-shagpat</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-03-16T20:02:57Z</dc:date>
+		<meta property="dcterms:modified">2017-03-16T20:02:57Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,16 +31,18 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4405</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4405</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Shaving of Shagpat&lt;/i&gt; isn’t just George Meredith’s first published novel, it’s also his only foray into fantasy literature.  &lt;i&gt;Shagpat&lt;/i&gt; sold poorly in its day despite good reviews, and after its disappointing salees Meredith pursed a career a writer of romantic fiction instead.  Despite its poor financial reception, &lt;i&gt;Shagpat&lt;/i&gt; enjoys a good modern reputation and remains a classic of fantasy literature, with George Eliot going so far as to call it a “work of genius.”&lt;/p&gt;
+			&lt;p&gt;The book is set in the medieval fantasy-Persia of the &lt;i&gt;Arabian Nights&lt;/i&gt; and other oriental romances.  Shibli Bagarag, a poor but talented barber, encounters a mystical crone named Noorna.  Together they embark on a quest to save the city of Shagpat from a tyrant who holds the city under his command by virtue of the powers of his magical hair.  On the way they battle genies and afreets, save princesses, hunt for treasures, and so on.&lt;/p&gt;
+			&lt;p&gt;Meredith’s language is purposefuly florid, evoking the richness of the setting, and his frequent usage of quotations and aphorisms from “the poet” give the fantasy a decidedly literate air.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4405</dc:source>
 		<dc:source>https://books.google.com/books?id=ULZEAAAAYAAJ</dc:source>
-		<meta property="se:word-count">92260</meta>
+		<meta property="se:word-count">92390</meta>
 		<meta property="se:reading-ease.flesch">71.38</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Shaving_of_Shagpat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-meredith_the-shaving-of-shagpat</meta>
