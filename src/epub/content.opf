@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Shaving of Shagpat</dc:title>
 		<meta property="file-as" refines="#title">Shaving of Shagpat, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -38,17 +38,17 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
 		<dc:subject id="subject-2">Arab countries -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4405</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4405</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047125</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008114217</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">A Persian barber embarks on a quest to save a city from the clutches of a tyrant and his magical hair.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Shaving of Shagpat&lt;/i&gt; isn’t just George Meredith’s first published novel, it’s also his only foray into fantasy literature. &lt;i&gt;Shagpat&lt;/i&gt; sold poorly in its day despite good reviews, and after its disappointing sales Meredith pursed a career as a writer of romantic fiction instead. Despite its poor financial reception, &lt;i&gt;Shagpat&lt;/i&gt; enjoys a good modern reputation and remains a classic of fantasy literature, with George Eliot going so far as to call it a “work of genius.”&lt;/p&gt;
 			&lt;p&gt;The book is set in the medieval fantasy-Persia of the &lt;i&gt;Arabian Nights&lt;/i&gt; and other oriental romances. Shibli Bagarag, a poor but talented barber, encounters a mystical crone named Noorna. Together they embark on a quest to save the city of Shagpat from a tyrant who holds the city under his command by virtue of the powers of his magical hair. On the way they battle genies and afreets, save princesses, hunt for treasures, and so on.&lt;/p&gt;
 			&lt;p&gt;Meredith’s language is purposefuly florid, evoking the richness of the setting, and his frequent usage of quotations and aphorisms from “the poet” give the fantasy a decidedly literate air.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4405</dc:source>
 		<dc:source>https://books.google.com/books?id=ULZEAAAAYAAJ</dc:source>
